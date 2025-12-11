@@ -21,7 +21,7 @@ export function Welcome() {
           onMouseLeave={() => setIsOpen(false)}
         >
           <button className="p-4 bg-amber-500 hover:shadow-2xl cursor-pointer flex flex-row text-4xl rounded-lg">
-            Menu
+            hover on me
             <img
               className="hover:rotate-180 transition duration-300 ease-in-out"
               src="\public\dropdown-arrow.svg"
